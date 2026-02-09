@@ -1,0 +1,9 @@
+Detector Configuration:
+
+Simulating particle interactions:
+
+Summary:
+Total true energy: 245.00 GeV
+Total detected energy: 212.67 GeV
+Invisible energy: 32.33 GeV
+Missing Transverse Energy (MET): 244.99 GeV
